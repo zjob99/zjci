@@ -1,3 +1,4 @@
+package sample;
 import CtCILibrary.LinkedListNode;
 //Find the linklist has a loop and return the starting point
 public class LinkListLoop {

@@ -1,3 +1,4 @@
+package sample;
 
 public class RemoveDupFromLinkList {
 	Node startNode=null;

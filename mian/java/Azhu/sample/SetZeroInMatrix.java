@@ -1,3 +1,4 @@
+package sample;
 
 public class SetZeroInMatrix {
 	public static int[][] cvt(int[][] v){

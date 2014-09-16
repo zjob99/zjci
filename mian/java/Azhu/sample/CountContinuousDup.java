@@ -1,3 +1,4 @@
+package sample;
 //convert aabbbc to a2b3c1, if the converted string is longer, return itself
 public class CountContinuousDup {
 	public static String cvtString(String s) {

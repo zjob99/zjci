@@ -1,3 +1,4 @@
+package sample;
 
 public class FindMidPointSum {
 	public static int getMidPoint(int[] input){
